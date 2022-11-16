@@ -1,7 +1,7 @@
 ### Hello! Gustavo de Oliveira.
 
 - 🔭 Trabalhando com front end;
-- 🌱 Estudando Wordpress;
+- 🌱 Estudando TypeScript;
 - 📫 gustavo.oliveira201@hotmail.com.com
 
 <div align="center">
