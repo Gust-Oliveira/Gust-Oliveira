@@ -1,6 +1,6 @@
 ### Hello! Gustavo de Oliveira.
 
-- 🔭 Trabalhando com full stack;
+- 🔭 Trabalhando com Full Stack;
 - 🌱 Estudando Node;
 - 📫 gustavo.oliveira201@hotmail.com.com
 
