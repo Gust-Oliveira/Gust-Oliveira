@@ -1,8 +1,8 @@
 ### Hello! Gustavo de Oliveira.
 
 - 🔭 Trabalhando com Full Stack;
-- 🌱 Estudando Node;
-- 📫 gustavo.oliveira201@hotmail.com.com
+- 🌱 Estudando Node E Reack;
+- 📫 gustavo.oliveira201@hotmail.com
 
 <div align="center">
   <a href="https://github.com/Gust-Oliveira">
