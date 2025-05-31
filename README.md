@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Gustavo de Oliveira 👋</h1>
+<h1 align="center">Olá! Eu sou [Seu Nome] 👋</h1>
 
 <p align="center">
   Professor de Matemática | Futuro Quant | Apaixonado por Ciência, Tecnologia e Finanças
@@ -10,18 +10,31 @@
 
 - 🎓 Professor de Matemática no Brasil.
 - 🧠 Estudando Ciência de Dados com foco em Finanças Quantitativas.
-- 🛠️ Interesses: Matemática aplicada, modelagem estatística, programação.
+- 🎯 Objetivo: Mestrado em Matemática nos EUA em 2028 (Texas Tech ou NC State).
+- 🇨🇦 Futuro imigrante para o Canadá.
+- 🛠️ Interesses: Matemática aplicada, modelagem estatística, programação e carpintaria.
 
 ---
 
 ## 🧰 Tecnologias e Ferramentas
 
 <p align="left">
+  <!-- Python stack -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+  <!-- Web stack -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+  <!-- Outros -->
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
@@ -39,8 +52,9 @@
 
 ## 📫 Contato
 
-- 📧 Email: gustavo.oliveira201@hotmail.com (mailto:gustavo.oliveira201@hotmail.com)
-- 🧠 Blog/Portfólio: progoliveira.com (https://progoliveira.com)
+- 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
+- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- 🧠 Blog/Portfólio: [seu-site.com](https://seu-site.com)
 
 ---
 
