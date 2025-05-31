@@ -1,33 +1,53 @@
-### Hello! Gustavo de Oliveira.
+<h1 align="center">Olá! Eu sou Gustavo de Oliveira 👋</h1>
 
-- 🔭 Trabalhando com Full Stack;
-- 🌱 Estudando Node E Reack;
-- 📫 gustavo.oliveira201@hotmail.com
+<p align="center">
+  Professor de Matemática | Futuro Quant | Apaixonado por Ciência, Tecnologia e Finanças
+</p>
 
-<div align="center">
-  <a href="https://github.com/Gust-Oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gust-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust-Oliveira&layout=compact&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
+---
 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <!--<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />-->
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
-          
-          
-  ##
- 
-<div> 
-  <a href="https://instagram.com/gustavo_sp30/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavo.oliveira201@hotmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-oliveira-06016120b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Gust-Oliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
+## 🚀 Sobre mim
+
+- 🎓 Professor de Matemática no Brasil.
+- 🧠 Estudando Ciência de Dados com foco em Finanças Quantitativas.
+- 🛠️ Interesses: Matemática aplicada, modelagem estatística, programação.
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- 📧 Email: gustavo.oliveira201@hotmail.com (mailto:gustavo.oliveira201@hotmail.com)
+- 🧠 Blog/Portfólio: progoliveira.com (https://progoliveira.com)
+
+---
+
+## ✍️ Citação Favorita
+
+> "A matemática é o alfabeto com o qual Deus escreveu o universo." – Galileu Galilei
+
+---
+
+<p align="center">Obrigado por visitar meu perfil! 😊</p>
