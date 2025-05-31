@@ -51,7 +51,7 @@
 
 ## 📫 Contato
 
-- 📧 Email:gustavo.oliveira201@hotmail.com
+- 📧 Email: gustavo.oliveira201@hotmail.com
 <!-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario) -->
 - 🧠 Blog/Portfólio: https://progoliveira.com
 
