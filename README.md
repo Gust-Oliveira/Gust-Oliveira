@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá! Eu sou Gustavo 👋</h1>
 
 <p align="center">
   Professor de Matemática | Futuro Quant | Apaixonado por Ciência, Tecnologia e Finanças
@@ -10,21 +10,19 @@
 
 - 🎓 Professor de Matemática no Brasil.
 - 🧠 Estudando Ciência de Dados com foco em Finanças Quantitativas.
-- 🎯 Objetivo: Mestrado em Matemática nos EUA em 2028 (Texas Tech ou NC State).
-- 🇨🇦 Futuro imigrante para o Canadá.
-- 🛠️ Interesses: Matemática aplicada, modelagem estatística, programação e carpintaria.
+- 🛠️ Interesses: Matemática aplicada, modelagem estatística, programação.
 
 ---
 
 ## 🧰 Tecnologias e Ferramentas
 
 <p align="left">
-  <!-- Python stack -->
+  <!-- Python stack
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>-->
 
   <!-- Web stack -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -52,9 +50,9 @@
 
 ## 📫 Contato
 
-- 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-- 🧠 Blog/Portfólio: [seu-site.com](https://seu-site.com)
+- 📧 Email: mailto:gustavo.oliveira201@hotmail.com
+<!-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario) -->
+- 🧠 Blog/Portfólio: https://progoliveira.com
 
 ---
 
