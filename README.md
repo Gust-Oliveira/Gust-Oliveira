@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Gustavo de Oliveira 👋</h1>
 
 <p align="center">
-  Professor de Matemática | Futuro Quant | Apaixonado por Ciência, Tecnologia e Finanças
+  Professor de Matemática | Apaixonado por Ciência, Tecnologia e Finanças
 </p>
 
 ---
