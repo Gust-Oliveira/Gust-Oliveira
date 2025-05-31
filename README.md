@@ -44,7 +44,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Oliveira&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" width="500px" height="300px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Oliveira&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" width="500px"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gust-Oliveira&theme=dracula&hide_border=true" alt="GitHub Streak" width="500px"/>
 </p>
