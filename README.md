@@ -41,7 +41,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gust-Oliveira&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gust-Oliveira&theme=dracula&hide_border=true" alt="GitHub Streak"/>
@@ -51,7 +51,7 @@
 
 ## 📫 Contato
 
-- 📧 Email: mailto:gustavo.oliveira201@hotmail.com
+- 📧 Email:gustavo.oliveira201@hotmail.com
 <!-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario) -->
 - 🧠 Blog/Portfólio: https://progoliveira.com
 
