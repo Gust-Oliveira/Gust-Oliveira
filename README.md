@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Gustavo 👋</h1>
+<h1 align="center">Olá! Eu sou Gustavo de Oliveira 👋</h1>
 
 <p align="center">
   Professor de Matemática | Futuro Quant | Apaixonado por Ciência, Tecnologia e Finanças
@@ -41,9 +41,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Oliveira&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gust-Oliveira&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
