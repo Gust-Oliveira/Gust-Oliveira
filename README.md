@@ -32,15 +32,16 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-  <!-- Outros -->
+  <!-- Outros
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
+ -->
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Gust-Oliveira&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Gust-Oliveira&theme=dracula&hide_border=true" alt="GitHub Streak"/>
